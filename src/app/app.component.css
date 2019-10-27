@@ -1,11 +1,6 @@
-.row-one,
-.row-two,
-.row-three {
-    display: grid;
-    grid-template-columns: 1fr 5fr 2fr;
 
-}
-    .row-two {
+    .row-two
+     {
         background-color: rgb(154, 179, 146);
     }
 
@@ -15,8 +10,8 @@
     }
     .main-container {
         display: grid;
-        height: 100%;
-        grid-template-rows: 2fr 12fr 2fr;
+        height: 75%;
+        grid-template-rows: 0fr 12fr 2fr;
     
     }
     .pull-right {
