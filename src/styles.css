@@ -24,4 +24,6 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .row-three {
     display: grid;
     grid-template-columns: 1fr 5fr 2fr;
+    width: 100%;
+    height: 100%;
 }
