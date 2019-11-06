@@ -10,13 +10,15 @@
     }
     .main-container {
         display: grid;
-        height: 75%;
+        height: 100%;
         grid-template-rows: 0fr 12fr 2fr;
     
     }
     .pull-right {
         float: right;
     }
-
+.main-outlet{
+    display: none;
+}
 
 
